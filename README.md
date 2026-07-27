@@ -21,7 +21,7 @@ This repository contains the software engineering lab work for **HealthMate** (S
 ## 📂 Project Diagrams & Documentation Link
 All structural diagrams and lab documentation are organized in Google Drive:
 
-👉 **[View HealthMate Lab Files on Google Drive][(আপনার_লিংক_এখানে_বসান)](https://drive.google.com/drive/folders/1WzBZ-GWRyww9bT9y8CMfEPKJ2afRaM2H?usp=drive_link)**
+👉 **[View HealthMate Lab Files on Google Drive][(https://drive.google.com/drive/folders/1WzBZ-GWRyww9bT9y8CMfEPKJ2afRaM2H?usp=drive_link)]**
 
 ---
 *Department of Computer Science and Engineering (CSE)*  
