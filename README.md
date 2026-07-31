@@ -24,5 +24,9 @@ All structural diagrams and lab documentation are organized in Google Drive:
 👉 **[View HealthMate Lab Files on Google Drive][(https://drive.google.com/drive/folders/1WzBZ-GWRyww9bT9y8CMfEPKJ2afRaM2H?usp=drive_link)]**
 
 ---
+## HealthMate Project Poster
+* **Project Poster:** [View HealthMate Project Poster](./Poster_HealthMate_Hospital_Management_and_Patient_Care_System.pdf)
+
+---
 *Department of Computer Science and Engineering (CSE)*  
 *Bangladesh Army University of Engineering & Technology (BAUET)*
