@@ -1,11 +1,11 @@
 # HealthMate-SE-Lab-Project
-Software Engineering Laboratory project (Semester 3.1) featuring system design, ER diagrams, and documentation for HealthMate.
+Software Engineering Laboratory project (3rd year 1st semester) featuring system design, ER diagrams, and documentation for HealthMate.
 
 
-# HealthMate - Software Engineering Lab Project (Semester 3.1)
+# HealthMate - Software Engineering Lab Project 
 
 ## About the Project
-This repository contains the software engineering lab work for **HealthMate** (Semester 3.1). This lab focuses on **SDLC (Software Development Life Cycle)** processes, system analysis, and design documentation rather than actual coding or software implementation.
+This repository contains the software engineering lab work for **HealthMate**. This lab focuses on **SDLC (Software Development Life Cycle)** processes, system analysis, and design documentation rather than actual coding or software implementation.
 
 ---
 
